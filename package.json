@@ -1,0 +1,12 @@
+{
+  "name": "browser-swipe",
+  "version": "1.0.0",
+  "main": "./browserSwipe.min.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0",
+  }
+}

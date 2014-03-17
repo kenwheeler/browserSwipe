@@ -1,0 +1,36 @@
+{
+    "name": "browserSwipe",
+    "title": "browserSwipe",
+    "description": "Swipe yo browser witcha trackpad",
+    "keywords": [
+        "swipe",
+        "desktop",
+        "scroll"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Ken Wheeler",
+        "url": "http://kenwheeler.github.io"
+    },
+    "maintainers": [
+        {
+            "name": "Ken Wheeler",
+            "email": "ken@outlook.com",
+            "url": "http://kenwheeler.github.io"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
+        }
+    ],
+    "demo": "http://thekenwheeler.herokuapp.com",
+    "bugs": "https://github.com/kenwheeler/browserSwipe/issues",
+    "homepage": "https://github.com/kenwheeler/browserSwipe/",
+    "docs": "https://github.com/kenwheeler/browserSwipe/",
+    "download": "https://github.com/kenwheeler/browserSwipe/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
